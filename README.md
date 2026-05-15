@@ -24,6 +24,13 @@ Currently building responsive and user-focused web applications using modern tec
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 
+
+---
+
+# 🔨 Currently Working On
+
+* ♻️ [**SmartSort**](zennmarieee-smartsort.hf.space) — An AI-powered smart waste sorting system.
+
 ---
 
 # 🚀 Featured Projects
@@ -33,6 +40,7 @@ Currently building responsive and user-focused web applications using modern tec
 * 🧠 [**AlgoDaily**](https://algo-daily-nine.vercel.app/) — DSA learning roadmap platform with structured lessons and progress tracking using localStorage.
 * ⏳ [**LifeSquares**](https://lifesquares.vercel.app/) — Interactive life-in-weeks visualization app designed for long-term goal and time perspective tracking.
 * 🗑️ [**BinWatch**](https://binwatch-app.vercel.app/) — QR-based waste reporting system for bin tracking and record management.
+* 🐝 [**Colony.io**](https://colony.up.railway.app/) — Real-time multiplayer browser game.
 
 ---
 
