@@ -29,7 +29,7 @@ Currently building responsive and user-focused web applications using modern tec
 
 # 🔨 Currently Working On
 
-* ♻️ [**SmartSort**](zennmarieee-smartsort.hf.space) — An AI-powered smart waste sorting system.
+* ♻️ [**SmartSort**](https://zennmarieee-smartsort.hf.space) — An AI-powered smart waste sorting system.
 
 ---
 
