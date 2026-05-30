@@ -27,6 +27,12 @@ Currently building responsive and user-focused web applications using modern tec
 
 ---
 
+# 📚 Currently Learning
+
+🚀 **Swift & iOS Development** — Expanding into mobile app development with Swift and building native iOS applications.
+
+---
+
 # 🔨 Currently Working On
 
 * ♻️ [**SmartSort**](https://zennmarieee-smartsort.hf.space) — An AI-powered smart waste sorting system.
