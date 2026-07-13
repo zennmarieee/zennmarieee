@@ -67,6 +67,7 @@ Currently building responsive and user-focused web applications using modern tec
 
 # 🔨 Currently Working On
 
+* 🩺 [**The Passion Autopsy**](https://passion-autopsy.vercel.app/) — AI-powered interactive storytelling experience that generates fictional forensic case files for abandoned hobbies and passions using Gemini.
 * ♻️ [**SmartSort**](https://zennmarieee-smartsort.hf.space) — An AI-powered smart waste sorting system.
 * 🚀 [**TracknFill**](https://tracknfill.vercel.app) — Internship tracker for students.
 
