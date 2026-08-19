@@ -1,6 +1,6 @@
 # Hi, I'm CJ 👋
 
-💻 Front-End & Full-Stack Web Developer  
+💻 Software Developer exploring **AI Engineering, Web, and iOS Development**.   
 🎓 BS Computer Science @ University of Science and Technology of Southern Philippines  
 📍 Philippines  
 📈 Interested in fintech, UI/UX, and modern web applications
@@ -61,7 +61,9 @@ Currently building responsive and user-focused web applications using modern tec
 
 # 📚 Currently Learning
 
-🚀 **Swift & iOS Development** — Expanding into mobile app development with Swift and building native iOS applications.
+🤖 **Associate AI Engineer for Developers — DataCamp -** Learning how to build AI-powered applications using LLM APIs, Hugging Face models, prompt engineering, RAG, and LLMOps concepts.
+
+📱 **Swift & iOS Development -** Expanding into native mobile development with Swift and SwiftUI.
 
 ---
 
